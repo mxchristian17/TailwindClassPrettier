@@ -1,0 +1,21 @@
+{
+    "name": "tailwind-class-prettier",
+    "version": "1.0.0",
+    "description": "A module to order Tailwind CSS classes in HTML files",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "tailwind",
+        "css",
+        "html",
+        "prettier"
+    ],
+    "author": "Christian Orengia",
+    "license": "MIT",
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.10",
+        "fs": "^0.0.1-security"
+    }
+}
